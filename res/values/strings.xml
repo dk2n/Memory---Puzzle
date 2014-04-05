@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BrainGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="brain_challenge">Brain Challenge</string>
+    <string name="continue_game">Continue game</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About</string>
+
+</resources>
